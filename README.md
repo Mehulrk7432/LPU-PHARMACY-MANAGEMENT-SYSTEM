@@ -99,12 +99,6 @@
 	You can also edit by clicking on the edit button on the categories page.
 	You can delete categories by clicking on the delete button.
 
-![ScreenShot](screenshots/login.png?raw=true "Login page")
-
-![Dashboard](screenshots/dashboard.png?raw=true "Dashbaord page")
-
-![Profile](screenshots/user-profile.png?raw=true "User profile")
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
